@@ -10,7 +10,7 @@ Try the Christmas edition too, Merry Christmas!
 </br>
 
 
-![alt tag](https://raw.githubusercontent.com/wuzhong-zhu/useless-barchart/blob/master/UselessBarchart/screenshot.gif)
+![alt tag](https://raw.githubusercontent.com/wuzhong-zhu/useless-barchart/master/UselessBarchart/screenshot.gif)
 
 Christmas edition:
-![alt tag](https://raw.githubusercontent.com/wuzhong-zhu/useless-barchart/blob/master/UselessBarchart/screenshot-Christmas.gif)
+![alt tag](https://raw.githubusercontent.com/wuzhong-zhu/useless-barchart/master/UselessBarchart-Christmas/screenshot-Christmas.gif)
