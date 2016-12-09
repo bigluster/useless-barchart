@@ -82,8 +82,8 @@ function moveHand(x,y)
 
 	var a=shoulderPosTop-y;
 	var b=shoulderPosLeft-x;
-	var handAngle=90+Math.atan(a/b)*57.3;
 	var handLength=Math.sqrt(a*a+b*b);
+	var handAngle=90+Math.acos(b/handLength)*57.3;
 
 	// console.log(handLength);
 	$('#happyManHand').css({
