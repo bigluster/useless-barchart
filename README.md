@@ -11,5 +11,7 @@ Try the Christmas edition too, Merry Christmas!
 
 
 ![alt tag](https://raw.githubusercontent.com/wuzhong-zhu/useless-barchart/master/screenshot.gif)
+</br>
 Christmas edition:
+</br>
 ![alt tag](https://raw.githubusercontent.com/wuzhong-zhu/useless-barchart/master/screenshot-Christmas.gif)
